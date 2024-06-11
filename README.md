@@ -17,7 +17,7 @@ This is a Corporate Agency Landing Page built with React JS and Tailwind CSS. Th
 ## Demo
 
 ### Landing Page
-![Alt text](/public/React-Js-with-Tailwind-CSS.png "Home")
+![Alt text](/public/React-Js-with-Tailwind-CSS-Project.png "Home")
 
 ## Getting Started
 
